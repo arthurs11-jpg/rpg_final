@@ -1,0 +1,11 @@
+{
+  "nome": "Gork",
+  "ouro": 162,
+  "vida": 100,
+  "vida_max": 100,
+  "ataque": 18,
+  "defesa": 5,
+  "inventario": {
+    "Poção de Vida": 1
+  }
+}
